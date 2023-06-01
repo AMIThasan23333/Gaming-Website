@@ -173,7 +173,7 @@
     font-weight: var(--weight-regular);
     line-height: 1.6;
     overflow-x: hidden;
-    height: 300vh;
+    /* height: 300vh; */
   }
 
 
